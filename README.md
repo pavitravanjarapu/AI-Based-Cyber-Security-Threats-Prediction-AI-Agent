@@ -5,16 +5,6 @@
 The full project presentation can be viewed here:  
 👉 [Watch Project Demo](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
 
-🚀 Features
-🔍 Real-time threat detection
-🤖 AI-based threat prediction
-🔥 Live alert system
-📊 Dashboard with active threats, blocked threats, and system health
-🌐 Network metrics: latency, bandwidth, active connections
-🧾 Recent threats list with severity and timestamps
-💾 Supabase backend integration
-⚡ Fast frontend with Vite + React
-
 ```
 ├── README.md # Documentation
 ├── components.json # Component library configuration
