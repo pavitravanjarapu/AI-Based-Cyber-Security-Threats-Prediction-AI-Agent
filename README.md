@@ -4,9 +4,10 @@
 
 👉 https://ai-based-cyber-security-threats-heyd.onrender.com/
 
-## 🎥 Project Demo Video
-
-<video src="demoPresentation.mp4" controls width="800"></video>
+## 🎥 Project Demo Video  
+▶️ Watch the demo video here:  
+[https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
 ```
 ├── README.md # Documentation
 ├── components.json # Component library configuration
