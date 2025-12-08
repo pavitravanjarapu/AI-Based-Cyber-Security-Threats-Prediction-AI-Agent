@@ -7,7 +7,6 @@
 ## 🎥 Project Demo Video
 
 <video src="demoPresentation.mp4" controls width="800"></video>
-
 ```
 ├── README.md # Documentation
 ├── components.json # Component library configuration
