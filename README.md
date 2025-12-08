@@ -4,10 +4,9 @@
 
 👉 https://ai-based-cyber-security-threats-heyd.onrender.com/
 
-## 🎥 Project Demonstration Video
+## 🎥 Project Demo Video
 
-The full project presentation can be viewed here:  
-👉 [Watch Project Demo](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
+<video src="demoPresentation.mp4" controls width="800"></video>
 
 ```
 ├── README.md # Documentation
