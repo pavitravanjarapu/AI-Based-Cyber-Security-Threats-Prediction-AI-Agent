@@ -8,6 +8,10 @@
   
 👉 [https://drive.google.com/file/d/FILE_ID/view?usp=sharing
 ](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
+
+## 📄 Agile Documentation
+
+👉 [Download Agile Document](Agile.document.group1.xls)
 ```
 ├── README.md # Documentation
 ├── components.json # Component library configuration
