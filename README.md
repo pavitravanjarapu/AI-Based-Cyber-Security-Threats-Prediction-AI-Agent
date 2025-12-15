@@ -12,6 +12,12 @@
 ## 📄 Agile Documentation
 
 👉 [Download Agile Document](Agile.document.group1.xls)
+
+## 🏗️ Architecture
+
+[Architecture Diagram](Architecture.jpg)
+
+
 ```
 ├── README.md # Documentation
 ├── components.json # Component library configuration
