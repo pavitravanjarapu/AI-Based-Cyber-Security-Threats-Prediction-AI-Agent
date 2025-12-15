@@ -1,4 +1,8 @@
 🌐AI-Based-Cyber-Security-Threats-Prediction-AI-Agent
+An intelligent cybersecurity platform that monitors, analyzes, and predicts network threats using machine learning and real-time data visualization. The system enables proactive threat detection through unified dashboards and AI-driven insights.
+
+##  Architecture
+![WhatsApp Image 2025-12-16 at 00 52 13_2a55219e](https://github.com/user-attachments/assets/276cb3cb-96e7-4c66-a472-da84e6caaed0)
 
 ##  Deployment Link
   https://ai-based-cyber-security-threats-heyd.onrender.com/
@@ -7,15 +11,12 @@
    [https://drive.google.com/file/d/FILE_ID/view?usp=sharing
 ](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
 
-##  Architecture
-![WhatsApp Image 2025-12-16 at 00 52 13_2a55219e](https://github.com/user-attachments/assets/276cb3cb-96e7-4c66-a472-da84e6caaed0)
-
+## 🎥 Project Walkthrough
+https://github.com/user-attachments/assets/cca59401-6edc-43aa-8eb9-9e2f523351d6
 
 ##  Agile Documentation
    [Download Agile Document](Agile.document.group1.xls)
 
-## 🎥 Project Walkthrough
-https://github.com/user-attachments/assets/cca59401-6edc-43aa-8eb9-9e2f523351d6
 
 ### 🖥️ Specialized Dashboards
 
