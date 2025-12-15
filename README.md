@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/8ea82b95-df4d-4ebc-9e75-95426d1801f8
-
 🌐AI-Based-Cyber-Security-Threats-Prediction-AI-Agent
 
 ##  Deployment Link
@@ -11,20 +7,42 @@ https://github.com/user-attachments/assets/8ea82b95-df4d-4ebc-9e75-95426d1801f8
    [https://drive.google.com/file/d/FILE_ID/view?usp=sharing
 ](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
 
-##  Agile Documentation
-   [Download Agile Document](Agile.document.group1.xls)
-   
 ##  Architecture
 ![Architecture Diagram](Architecture.jpg)
 
+##  Agile Documentation
+   [Download Agile Document](Agile.document.group1.xls)
 
-## Live Demo
-
+## 🎥 Project Walkthrough
 https://github.com/user-attachments/assets/cca59401-6edc-43aa-8eb9-9e2f523351d6
 
+### 🖥️ Specialized Dashboards
 
+#### 🏠 1. Home Dashboard
+- Central hub for real-time threat monitoring
+- Auto-refreshing metrics, system health indicators, and live traffic charts
 
+#### 📁 2. Static Data Dashboard
+- Analyze historical datasets for anomaly detection
+- Upload `.csv` / `.json` files
+- Export analysis results
 
+#### 🔄 3. Streaming Data Dashboard
+- Simulated real-time network environment
+- Pause / Resume live streams with status indicators
+
+#### 🤖 4. ML (Machine Learning) Dashboard
+- Train and monitor AI models
+- Batch retraining (Retrain All)
+- Real-time accuracy tracking
+
+#### 🌐 5. Network VPN / WiFi Dashboard
+- Monitor VPN connections and bandwidth usage
+- Network scanning and protocol distribution analysis
+
+#### 📄 6. Threat Reports
+- Generate downloadable security reports
+- Historical threat analysis and security recommendations
 
 ```
 ├── README.md # Documentation
