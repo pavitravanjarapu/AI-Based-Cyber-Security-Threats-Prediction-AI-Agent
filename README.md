@@ -8,7 +8,8 @@
 ](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
 
 ##  Architecture
-![Architecture Diagram](Architecture.jpg)
+![WhatsApp Image 2025-12-16 at 00 52 13_2a55219e](https://github.com/user-attachments/assets/276cb3cb-96e7-4c66-a472-da84e6caaed0)
+
 
 ##  Agile Documentation
    [Download Agile Document](Agile.document.group1.xls)
