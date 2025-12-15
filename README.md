@@ -1,22 +1,17 @@
 🌐AI-Based-Cyber-Security-Threats-Prediction-AI-Agent
 
-## 🚀 Deployment Link
+##  Deployment Link
+  https://ai-based-cyber-security-threats-heyd.onrender.com/
 
-👉 https://ai-based-cyber-security-threats-heyd.onrender.com/
-
-## 🎥 Project Demo Video  
-  
-👉 [https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+##  Project Demo Video  
+   [https://drive.google.com/file/d/FILE_ID/view?usp=sharing
 ](https://drive.google.com/file/d/1271jmsN2pZoUAQq4MkMaf7PnRkSxbGzu/view?usp=sharing)
 
-## 📄 Agile Documentation
-
-👉 [Download Agile Document](Agile.document.group1.xls)
-
-## 🏗️ Architecture
-
-[Architecture Diagram](Architecture.jpg)
-
+##  Agile Documentation
+   [Download Agile Document](Agile.document.group1.xls)
+   
+##  Architecture
+![Architecture Diagram](Architecture.jpg)
 
 ```
 ├── README.md # Documentation
